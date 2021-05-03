@@ -6,3 +6,4 @@ inoremap <C-k> <Up>
 inoremap <C-l> <Right>
 inoremap <C-w> <C-o>w
 inoremap <C-b> <C-o>b
+inoremap <C-;> <Enter>
