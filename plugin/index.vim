@@ -6,4 +6,7 @@ inoremap <C-k> <Up>
 inoremap <C-l> <Right>
 inoremap <C-w> <C-o>w
 inoremap <C-b> <C-o>b
-inoremap <C-;> <Enter>
+
+" useful for selecting the elements when pressing enter
+inoremap l; <C-R>
+inoremap ;l <C-R>
