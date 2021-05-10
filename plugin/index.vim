@@ -8,5 +8,5 @@ inoremap <C-w> <C-o>w
 inoremap <C-b> <C-o>b
 
 " useful for selecting the elements when pressing enter
-inoremap l; <C-R>
-inoremap ;l <C-R>
+inoremap l; <Enter>
+inoremap ;l <Enter>
